@@ -1,0 +1,10 @@
+[theme] 
+# You have to add this line
+
+primaryColor =  '#d00000'
+
+backgroundColor = '#cdb4db'
+
+secondaryBackgroundColor = '#bde0fe' 
+
+
